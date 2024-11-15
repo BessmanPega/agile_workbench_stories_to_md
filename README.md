@@ -17,3 +17,11 @@ Writing stories.html... done.
 You can easily fine tune `stories.md` before running it through your preferred html conversion method with whatever styling you prefer.
 
 As a convenience, the program also generates `stories.html`, styled with [water.css](https://github.com/kognise/water.css).
+
+To export stories, first access the Application Profile from App Studio:
+
+![Application profile.](docs/application_profile.png)
+
+Then select "Export Stories" from the Actions menu:
+
+![Export stories.](docs/export_stories.png)
