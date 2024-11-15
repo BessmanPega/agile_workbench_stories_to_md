@@ -1,4 +1,5 @@
-# README
+![Sample output.](docs/sample.png)
+
 This is a NodeJS project that converts stories exported from Pega's Agile Workbench into Markdown and HTML.
 
 To install, make sure you have a recent version of [Node.js](https://nodejs.org) installed and run `npm install`.
